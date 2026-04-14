@@ -1,0 +1,24 @@
+{
+  "name": "suw-discord-bot",
+  "version": "1.0.0",
+  "description": "Suw's discord bot",
+  "homepage": "https://github.com/SuwTaisha/suw-discord-bot#readme",
+  "bugs": {
+    "url": "https://github.com/SuwTaisha/suw-discord-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuwTaisha/suw-discord-bot.git"
+  },
+  "license": "MIT",
+  "author": "Suw",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.2",
+    "dotenv": "^17.4.2"
+  }
+}
